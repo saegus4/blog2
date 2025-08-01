@@ -6,26 +6,23 @@ lang: en
 
 timezone: Brazil/West
 
-title: Archie                         
+title:  Francisco
 
 tagline: Topics of Programming, Techno-babble, Weeb, and Life through the eyes of a Brazilian Software Developer.
 
-description: >-                       
+description: >-
 
 url: ''
 
 github:
-  username: zedbydade            
-
-twitter:
-  username: zedbydade          
+  username: saegus4
 
 social:
   name: Francisco Paradela
-  email: franciscoleite.dev@protonmail.com             
+  email: franciscoleite.dev@protonmail.com
   links:
-    - https://twitter.com/zedbydade      
-    - https://github.com/zedbydade     
+    - https://twitter.com/zedbydade
+    - https://github.com/zedbydade
 
 google_site_verification:               # fill in to your verification string
 
@@ -33,14 +30,14 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 
+  id:
   pv:
-    proxy_endpoint:  
-    cache_path:      
+    proxy_endpoint:
+    cache_path:
 
-theme_mode:   
+theme_mode:
 
-avatar: https://cdn.masto.host/rubysocial/accounts/avatars/109/591/892/111/011/273/original/5127a706a947d84e.jpg
+avatar: https://pbs.twimg.com/media/F_qJDKKWIAA4s3u.jpg
 
 toc: true
 
@@ -71,12 +68,12 @@ collections:
 
 defaults:
   - scope:
-      path: ''          
+      path: ''
       type: posts
     values:
       layout: post
-      comments: false    
-      toc: true         
+      comments: false
+      toc: true
       permalink: /posts/:title/
   - scope:
       path: _drafts
